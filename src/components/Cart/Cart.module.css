@@ -12,6 +12,12 @@
   }
 }
 
+@media (max-height: 350px) {
+  .cart-items {
+    max-height: 7rem;
+  }
+}
+
 .total {
   display: flex;
   justify-content: space-between;

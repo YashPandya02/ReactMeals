@@ -14,6 +14,11 @@
   z-index: 10;
 }
 
+.header a {
+  color: aliceblue;
+  text-decoration: none;
+}
+
 .main-image {
   width: 100%;
   height: 25rem;
