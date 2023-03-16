@@ -6,6 +6,12 @@
   overflow: auto;
 }
 
+@media (max-width: 375px) {
+  .cart-items {
+    max-height: 15rem;
+  }
+}
+
 .total {
   display: flex;
   justify-content: space-between;
